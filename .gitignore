@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environments
+data_venv/
+venv/
+bin/
+lib/
+include/
+share/
+
+# Environment files
+.env
+.env.example
+
+# OS
+.DS_Store
